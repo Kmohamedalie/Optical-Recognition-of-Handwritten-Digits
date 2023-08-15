@@ -1,0 +1,2 @@
+SnapML - Random forest trained model pickle file 
+ScikitL - SVM trained model pickle file
