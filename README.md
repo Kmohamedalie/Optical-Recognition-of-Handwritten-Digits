@@ -1,7 +1,7 @@
 
 
   
-# Optical Recognition of Handwritten Digits using Bagging and SVM
+# Optical Recognition of Handwritten Digits 
 
   
 ![image](https://github.com/Kmohamedalie/Optical-Recognition-of-Handwritten-Digits/assets/63104472/da92e694-35df-4dd1-af7d-10f11868a9df)
