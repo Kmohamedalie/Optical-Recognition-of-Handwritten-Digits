@@ -9,7 +9,7 @@
 
 <h3><b>Task:</b></h3> Recognising handwritten digits using classical machine learning algorithms (Random Forest and Support Vector Machine)
 
-### **Notebook:** [Link](https://github.com/Kmohamedalie/Optical-Recognition-of-Handwritten-Digits/tree/master/Notebook)
+### **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Optical-Recognition-of-Handwritten-Digits/tree/master/Notebook)
 
 ### **Achieved Accuracy, Precision, F1-score:** 98.89%
 
