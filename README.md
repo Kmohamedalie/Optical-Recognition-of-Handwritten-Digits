@@ -47,14 +47,6 @@ Handwritten digit recognition is an ability of machines to recognize human writt
 **Classification report:**
 
 
-![image](https://github.com/Kmohamedalie/Optical-Recognition-of-Handwritten-Digits/assets/63104472/c2dd158b-4044-4526-967e-f68d8de1cf22)
-
-
-
-<div align="center">
-</div>
-
-
 
 
 
