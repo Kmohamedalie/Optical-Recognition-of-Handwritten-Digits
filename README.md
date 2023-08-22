@@ -44,7 +44,6 @@ Handwritten digit recognition is an ability of machines to recognize human writt
 <br>
 <br>
 
-**Classification report:**
 
 
 
