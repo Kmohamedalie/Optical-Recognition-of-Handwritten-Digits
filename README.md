@@ -26,7 +26,7 @@ https://github.com/Kmohamedalie/Optical-Recognition-of-Handwritten-Digits/assets
 
 | Algorithm | Precision | Recall  | F1-score | Accuracy |
 |-----------|-----------|---------|----------|----------|
-| Xgboost   | 98.89%    |  98.89% | 98.89%   | 98.89%   |
+|Support Vector Machine   | 98.89%    |  98.89% | 98.89%   | 98.89%   |
 
 
 
